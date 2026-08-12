@@ -1,5 +1,9 @@
-# Open-GR/IR---Power-BI-Report
+# Open GRIR Dashboard
+
+## Overview
+
 The Open GRIR Dashboard is a Power BI solution designed to monitor and analyze open Goods Receipt / Invoice Receipt (GRIR) balances across multiple business dimensions.
+
 The dashboard enables finance and procurement teams to identify outstanding GRIR amounts, track trends, and analyze balances by Desk, GL Description, Business Area, Plant, Fiscal Year, Quarter, and Month.
 
 ---
@@ -88,14 +92,34 @@ These filters allow users to drill down into specific business segments and peri
 
 ### Desk Wise Open GRIR
 
-Desk Wise Dashboard
+![Desk Wise Dashboard](imagesg
 
 ### GL Wise Open GRIR
 
-GL_wise_open_grir
+images/gl_wise_open_grir.png
 
+---
+
+## Repository Structure
+
+```text
+Open-GRIR-Dashboard/
+│
+├── README.md
+├── Open_GRIR_Dashboard.pbix
+├── Dataset/
+│ └── Source_Data.xlsx
+├── Images/
+│ ├── desk_wise_open_grir.png
+│ └── gl_wise_open_grir.png
+└── Documentation/
+└── Data_Dictionary.xlsx
+```
+
+---
 
 ## Author
 
 **Kishan Maru** 
-Associate Manager
+
+
