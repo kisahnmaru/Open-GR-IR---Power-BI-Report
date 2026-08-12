@@ -1,4 +1,4 @@
-# Open-GR-IR---Power-BI-Report
+# Open-GR/IR---Power-BI-Report
 The Open GRIR Dashboard is a Power BI solution designed to monitor and analyze open Goods Receipt / Invoice Receipt (GRIR) balances across multiple business dimensions.
 The dashboard enables finance and procurement teams to identify outstanding GRIR amounts, track trends, and analyze balances by Desk, GL Description, Business Area, Plant, Fiscal Year, Quarter, and Month.
 
